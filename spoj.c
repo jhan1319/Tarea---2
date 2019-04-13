@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+// 100/100
 #define B 10
 
 int main()
