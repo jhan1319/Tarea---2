@@ -1,11 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// 90/100
+
 void formula();
 int menu=0;
-float a=0,b=0,c=0,x=0,r=0,z=0;
+float a=0,b=0,c=0,x=0,r=0,z=0; // Estas variables deberian ser los parametros de la funcion formula -10
 float x1,bcuadra2,cuatro_ac,suma,x2;
 float raiz,dividir,radical,resultado;
+
+
 
 int main()
 {
