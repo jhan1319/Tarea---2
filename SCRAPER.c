@@ -2,6 +2,9 @@
 #include <stdlib.h>
 #include <string.h>
 
+// 80/100
+// Falto usar punteros para extraer info -20
+
 void cod_fuente(char codigo_pagina[])
 {
 	int i = 0, count = 0;
