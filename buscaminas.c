@@ -3,6 +3,8 @@
 #include <ctype.h>
 #include <stdlib.h>
 #include <time.h>
+// 85/100
+// El tablero tenia que ser de tamano variable -10
 
 void tamano(int tablero[][15], int gg_easy);
 void NukeDrop(int minas[][15], int a)
@@ -179,6 +181,7 @@ int main()
   return 0;
 }
 
+// mal nombre para la funcion -5
 void tamano(int tablero[][15], int te_fuite)
 {
      int i, j;
